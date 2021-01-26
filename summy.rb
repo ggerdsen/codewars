@@ -1,7 +1,6 @@
 require 'pry'
 
 def summy(string_of_ints)
-  new_array = []
   a = string_of_ints.split.map do |element|
     element.to_i
   end
