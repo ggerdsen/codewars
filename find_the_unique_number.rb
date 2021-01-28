@@ -16,7 +16,5 @@ def find_uniq(arr)
   
 end
 
-binding.pry
 
-# find_uniq([1,1,1,1,0])
 find_uniq([1,1,0,1,1])
